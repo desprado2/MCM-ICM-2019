@@ -1,0 +1,2 @@
+To room 59: 26 -> 49 -> 50 -> 51 -> 57 -> 59 -> accident location
+It takes 124 s.
